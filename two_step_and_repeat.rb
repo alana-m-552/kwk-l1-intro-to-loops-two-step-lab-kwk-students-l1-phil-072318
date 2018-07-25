@@ -55,6 +55,6 @@ def break_dance
   steps = 0 
   loop do 
     number += 1 
-    while > 6
+    while number > 6
     
 end
