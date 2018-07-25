@@ -35,6 +35,7 @@ end
     end
 end
 
+# Write a loop that fulfills all criteria from Part 3 of the README.md
 def how_many_steps?
   steps = 0 
   loop do
@@ -47,7 +48,6 @@ def how_many_steps?
       sleep(0.5) 
     end 
   end 
-  # Write a loop that fulfills all criteria from Part 3 of the README.md
 end
 
 def break_dance
