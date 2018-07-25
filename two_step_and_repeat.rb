@@ -45,6 +45,8 @@ def how_many_steps?
     else
       puts "right"
       sleep(0.5) 
+    end 
+  end 
   # Write a loop that fulfills all criteria from Part 3 of the README.md
 end
 
